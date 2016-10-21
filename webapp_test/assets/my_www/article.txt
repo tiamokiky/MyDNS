@@ -1,0 +1,6 @@
+right_1 {"name":"news?postId=oRThIR4F5A","protocol":"baycro.4x90Mxnx4H"}
+right_2 {"name":"news?postId=NXRcIqW1gY","protocol":"baycro.O8lO2kGfJQ"}
+right_3 {"name":"news?postId=zB45sXNf71","protocol":"baycro.O8lO2kGfJQ"}
+left_3 {"name":"news?postId=HQ2WL1D7sL","protocol":"baycro.4x90Mxnx4H"}
+left_2 {"name":"news?postId=Mmqd4NCPrk","protocol":"baycro.4x90Mxnx4H"}
+left_1 {"name":"news?postId=3ub1yoALwp","protocol":"baycro.4x90Mxnx4H"}
