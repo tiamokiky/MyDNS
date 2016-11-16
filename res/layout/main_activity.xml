@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content">
+	<TextView android:id="@+id/tv_str"
+	    android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Get Your Phone Info:" />
+    <Button
+        android:id="@+id/btn_android_version"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Get Android Version" />
+     <Button
+        android:id="@+id/btn_ip"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Get IP" />
+      <Button
+        android:id="@+id/btn_dns"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Get DNS" />
+    
+</LinearLayout>
