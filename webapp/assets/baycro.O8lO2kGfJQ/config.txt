@@ -1,4 +1,0 @@
-{
-	'assistExit': true,
-	'protocol': 'baycro.O8lO2kGfJQ'
-}
